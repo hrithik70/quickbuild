@@ -17,6 +17,6 @@
     <url/>
     <modules>
         <module>../DataObject</module>
-        <module>../UserService</module>
+        <module>../InterviewZone</module>
     </modules>
 </project>
