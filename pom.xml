@@ -18,5 +18,6 @@
     <modules>
         <module>../DataObject</module>
         <module>../InterviewZone</module>
+        <module>../CommonDefinition</module>
     </modules>
 </project>
